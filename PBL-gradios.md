@@ -9,4 +9,4 @@ Idea for project
 ================
 
  * add sounds
- * add mod
+ * add mod and enemy
